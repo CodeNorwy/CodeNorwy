@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CodeNorwy
-- 👀 I’m interested in everything
+- 👋 Hi, I’m @CodeNorwy aka @Engineirik
+- 👀 I’m interested in coding, system architecture and cyber security
 - 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on nothing atm
 - 📫 How to reach me ...
 
 <!---
